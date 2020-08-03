@@ -6,8 +6,7 @@
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.2.1]",
     "UiPath.Excel.Activities": "[2.8.5]",
     "UiPath.Mail.Activities": "[1.8.5]",
-    "UiPath.System.Activities": "[20.4.0]",
-    "UiPath.WebAPI.Activities": "[1.4.5]"
+    "UiPath.System.Activities": "[20.4.0]"
   },
   "webServices": [],
   "entitiesStores": [],
